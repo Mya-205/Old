@@ -1,0 +1,25 @@
+body{
+    background-image: URL("AOT.jpg");
+    background-size: fill;
+}
+p{
+color: black;
+}
+
+#header{
+color: whitesmoke;
+border: solid 1px grey;
+background-color: grey;
+text-align: left;
+}
+
+
+#footer{
+color:whitesmoke;
+background-color: solid 1px grey;
+background-color: grey;
+text-align: Left;
+position:Absolute;
+bottom:0;
+width:100%;
+}
